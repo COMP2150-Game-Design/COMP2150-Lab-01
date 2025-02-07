@@ -14,14 +14,14 @@ Today's task uses (but is not limited to):
 ## Assignment deliverable
 You will not be directly working on an assignment today, but instead setting up the workflows necessary for the assignment (i.e. using Github appropriately).
 
-## Github and Github Classroom
+## Github and Github Classroom (10 min)
 By sheer virtue of the fact you are looking at this lab sheet, you must already have a Github account. Woohoo! However, if you haven't used Github since last year, you might have forgotten a few things.
 
 ### Linking your account and Student ID
 
 When you clicked the link to accept this task, you would have been prompted to select your Student ID from a roster that looks something like this:
 
-~[Image of the roster](images/roster.png)
+![Image of the roster](images/selectnumber.png)
 
 This roster is for <b>this unit only</b> and links your Github account, meaning we are able to quickly access your work. This will be important for the labs, but also for marking your assignments. If you did not select your Student ID, don't worry. You'll be able to select it next week when you accept that week's lab. However, if you couldn't find your Student ID, you'll need to contact the staff to have your ID added to the roster before you can select it.
 
@@ -39,9 +39,23 @@ Once you have the repository on your computer, navigate to it. Inside will be a 
 
 ===REPLACE ME!===
 
-Once you've done that, save the file and head back into Github Desktop. You should see 
+Once you've done that, save the file and head back into Github Desktop. You should a change logged. Write a meaningful commit message, hit "Commit", then "Push" to send your changes to the remote version of your repository.
 
-Description of a particular part of the task.
+Refresh this page (or head back to it if you are just reading this locally), and you should see the change you have made is now here in the document. You should also see your most recent commit in the commit history summary at the top of the repository. Knowing how to check your push has gone through will help you ensure you submit your assignment on time and give you peace of mind.
+
+![Image of commit summary](images/commitlog.png)
+
+## Unity and the Tilemap Editor (30 min)
+
+### Opening the project
+The repo contains a Unity project. Open this project up using Unity. For this unit, we will be using Unity 2022.3.37, which should already be installed on the lab machines (call over your instructor if you are struggling to find it).
+
+It is important to use the right version of Unity. Assignments created in the wrong version of Unity will not be marked.
+
+
+### The Tilemap Editor
+Inside the project is an edited version of the 2D Game Kit asset from Unity. In a future week, you'll be provided with the Level Design assignment repo that will use a version of this Game Kit. For now, we just want you to focus on learning the Tilemap Editor.
+
 
 Using the 2D Game Kit
 Open the Unity project inside the repository. It contains four folders:
